@@ -1,0 +1,95 @@
+body {
+    padding: 0;
+    margin: 0   ;
+}
+.part1 {
+align-items: center;
+display: flex;
+background-color: rgb(254, 247, 244);
+height: 50px;
+}
+.part1 img{
+    margin-top: -2px;
+   
+}
+nav{
+    padding-top: 17px;
+}
+nav ul {
+    display: flex;
+   list-style: none;
+   margin-top:0px ;
+}
+nav li{
+    padding: 15px;
+}
+#buton{
+    background-color: rgb(252, 136, 3);
+border: none;
+padding: 5px;
+
+}
+
+#login{
+    color: #ffffff;
+}
+#jamais{
+    color: rgb(252, 136, 3);
+}
+
+#explor{ background-color: rgb(252, 136, 3);
+    border: none;
+    padding: 5px;
+}
+.explorer{
+    color: #ffffff;
+}
+.part1 a{
+    text-decoration: none;
+}
+
+.main{
+    display: flex;
+    padding-left: 100px;
+}
+.main h1{
+    font-size: 55px;
+}
+.main img{
+    width: 450px;
+    padding-left: 53px;
+    padding-top: 42px;
+}
+.part2_right{
+    padding-top: 90px;
+}
+.pr{
+    padding-top: 10px;
+}
+.part2_right a{
+    color: #ffffff;
+}
+#explor{
+    border: none;
+}
+.part3{
+    display: flex;
+    padding: 15px;
+    padding-top: 100px;
+    padding-left: 67px;
+    gap: 3.1em;
+}
+a:hover{
+    color: orange;
+}
+a{
+    color: black;
+}
+
+
+
+.footer{
+    background-color: rgb(254, 247, 244);
+   padding: 18px;
+    padding-left: 100px;
+}
